@@ -1,0 +1,20 @@
+[
+  {
+    "title": "' A Fog-Centric Secure Cloud Storage Scheme  '",
+    "imageSrc": "projects/project.png",
+    "description": "this is my Mca final year project, its deals with securing the data of user",
+    "skills": ["java-EE", "Mysql"]
+  },
+  {
+    "title": "' Ai image Generator '",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the React and Api ,fetching the Api request from the OpenAi",
+    "skills": ["React"]
+  },
+  {
+    "title": "' Personal Portofolio '",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React"]
+  }
+]

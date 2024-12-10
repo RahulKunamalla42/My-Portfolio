@@ -1,0 +1,40 @@
+[
+  {
+    "Qualification": "MCA",
+    "Year": "( 2022-2024 ),",
+    "organisation": "University College KU",
+    "place": "Warangal",
+    "experiences": ["kakatiya University","Obtained { 80% } cgpa"],
+    "imageSrc": "history/medal.png"
+  },
+  {
+    "Qualification": "BSC(Mpcs)",
+    "Year": "( 2019-2022 ),",
+    "organisation": "VSR Degree college",
+    "place": "Singapur",
+    "experiences": ["Shatavahana University", "Obtained { 85% } cgpa"],
+    "imageSrc": "history/medal.png"
+  },
+  {
+    "Qualification": "MPC",
+    "Year": "( 2017-2019 ),",
+    "organisation": "Vaishnavi Junior College",
+    "place": "Huzurabad",
+    "experiences": [
+      "Board of Intermediate Education",
+      "Obtained { 88% } cgpa"
+    ],
+    "imageSrc": "history/medal.png"
+  },
+  {
+    "Qualification": "SSC",
+    "Year": "( 2017)",
+    "organisation": "ZP High School",
+    "place": "Kothagattu",
+    "experiences": [
+      "Board of Secondary Education",
+      "Obtained { 92% } cgpa"
+    ],
+    "imageSrc": "history/medal.png"
+  }
+]
